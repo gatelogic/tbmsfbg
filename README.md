@@ -24,6 +24,7 @@ Recently, when playing games I noticed that almost every game has different butt
 | Shift   | Crouch |
 | Ctrl      | Sprint       |
 | Tab   | Player List (If Multiplayer)     |
+| M   | Map        |
 
 #### Function Keys
 | Key      | Action |
@@ -39,5 +40,5 @@ Recently, when playing games I noticed that almost every game has different butt
 | Left Click      | Attack/Break     |
 | Right Click   | Use      |
 | Middle Click      | Pick Item    |
-| Scroll   | Change Inv Slot     |
-| Scroll (While in Zoom)      | Zoom In/Out      |
+| Scroll   | Change Inv      |
+| Scroll (In Zoom)   | Forwards       |
